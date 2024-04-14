@@ -3,9 +3,9 @@
 
 I have experience as a backend developer coding mainly web applications. I like to be clear about my objectives and the way in which I can achieve them to create quality solutions, likewise I like to constantly learn.
 
-- 🧠 I’m currently learning **Frontend and .NET Core**
+- 🧠 I’m currently learning **Frontend**
 
-- 🤝 I’m looking to collaborate on **projects with .NET Core or Flask/Django** (it's not mandatory)
+- 🤝 I’m looking to collaborate on **projects with Flask/Django** (it's not mandatory)
 
 - 💬 Talk about web development
 
@@ -16,7 +16,6 @@ I have experience as a backend developer coding mainly web applications. I like 
 <h4 align="left">Languages and Tools:</h4>
 <p align="left"> 
     <img src="https://skillicons.dev/icons?i=cs" alt="git" width="40" height="40"/>
-    <img src="https://skillicons.dev/icons?i=dotnet" alt="git" width="40" height="40"/>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
